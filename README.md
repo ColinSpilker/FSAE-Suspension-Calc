@@ -10,7 +10,7 @@ similar file type
 
 just calculates turning radius and tracks some slip via geometry
 
-much more crude
+less cells as simpler calculation
 
 # Will update more files and tests to this
 
