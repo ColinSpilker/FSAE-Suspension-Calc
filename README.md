@@ -16,5 +16,4 @@ less cells as simpler calculation
 
 i plan on running a 4 wheel bycicle simulation to help adjust spring rates
 
-
-hailstate
+sorry both programs are a bit crude, I am not the best programmer
