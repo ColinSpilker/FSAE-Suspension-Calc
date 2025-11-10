@@ -12,8 +12,11 @@ just calculates turning radius and tracks some slip via geometry
 
 less cells as simpler calculation
 
-# Will update more files and tests to this
+# Suspension Master File
+includes a steadystate 4 wheel bycicle model containing 5 DOF: X, Y, Z, Roll, Yaw
 
-i plan on running a 4 wheel bycicle simulation to help adjust spring rates
+Pajecka fits are fake as TCC does not permit sharing fits
+
+# Will update more files and tests to this
 
 sorry both programs are a bit crude, I am not the best programmer
