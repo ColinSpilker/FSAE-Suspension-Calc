@@ -1,3 +1,6 @@
+# Paper
+Larger readme explaining cacluations and derivations used as a DIS for univeristy
+
 # 2D-Suspension-Calc
 2D Suspension Double Wishbone Solver
 
